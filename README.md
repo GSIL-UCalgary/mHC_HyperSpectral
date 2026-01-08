@@ -1,6 +1,6 @@
 # mHC_HyperSpectral
 
-**Adapting Manifold-Constrained Hyper-Connections for hyperspectral image classification**
+**Adapting Manifold-Constrained Hyper-Connections for Hyperspectral image classification**
 
 ---
 
