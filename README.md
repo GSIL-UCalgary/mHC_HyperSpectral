@@ -6,7 +6,7 @@
 
 ### 🔗 Related Resources
 
-- 📄 **Paper (arXiv)**  
+- 📄 **Paper (mHC: Manifold-Constrained Hyper-Connections)**  
   [![arXiv](https://img.shields.io/badge/arXiv-2512.24880-b31b1b.svg)](https://www.arxiv.org/abs/2512.24880)
 
 - 💻 **Non-official Implementation**  
