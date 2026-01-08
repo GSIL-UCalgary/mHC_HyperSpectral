@@ -16,3 +16,5 @@
   [![YouTube](https://img.shields.io/badge/YouTube-Paper%20Explanation-red.svg)](https://www.youtube.com/watch?v=jYn_1PpRzxI)
 
 ---
+
+![mHC  Architecture](mCH_Structure.png)
